@@ -1,0 +1,2 @@
+A:\repos\ca2\laboratories\Debug\laboratories.exe
+A:\repos\ca2\laboratories\Debug\laboratories.pdb
