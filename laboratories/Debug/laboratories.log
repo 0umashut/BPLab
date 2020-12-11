@@ -1,4 +1,2 @@
 ﻿  laboratories.cpp
-A:\repos\ca2\laboratories\laboratories.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-A:\repos\ca2\laboratories\laboratories.cpp(16,18): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
   laboratories.vcxproj -> A:\repos\ca2\laboratories\Debug\laboratories.exe
